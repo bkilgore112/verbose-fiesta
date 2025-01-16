@@ -1,3 +1,2 @@
 # THIS IS A HEADER
-
-added header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
